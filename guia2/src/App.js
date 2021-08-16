@@ -6,7 +6,7 @@ const App = () => {
   return(
     <div className="App">
       <div className="App-content">
-        <p>Aquí haremos nuestro TO-DO list</p>
+        <p>Guia 2 - SR161939</p>
         <Form/>
       </div>
     </div>
